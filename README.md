@@ -4,14 +4,14 @@ Framework
 Django
 Flask
 
-1) Titulo Hashzap
+1) Titulo Converszap
 2) Botão para iniciar chat
 	Popup
 		Bem vindo ao Hashazap
 		Escrever seu nome
 		Entra no chat
 3) Chat
-	Rebeca entrou no chat
+	Pessoa entrou no chat
 	Mensagens do usuario
 4) Campo para enviar mensagem
 5) Botao de enviar
@@ -21,7 +21,7 @@ Importar bibliotema Flet
 
 Cria uma funçao
  - def main(pagina):
-	texto = ft.Text("Hashzap")
+	texto = ft.Text("Converszap")
 	texto_novo = ("Oi testando")
 	pagina.add(texto)
 	pagina.add(texto_novo)
