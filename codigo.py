@@ -1,4 +1,4 @@
-# Hashzap
+# Converszap
 # botao de iniciar chat
 # popup para entrar no chat
 # quando entrar no chat: (aparece para todo mundo)
@@ -19,7 +19,7 @@
 import flet as ft
 
 def main(pagina):
-    texto = ft.Text("Hashzap")
+    texto = ft.Text("Converszap")
 
     chat = ft.Column()
 
